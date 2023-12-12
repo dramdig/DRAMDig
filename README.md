@@ -80,6 +80,7 @@ Uncovering DRAM address mappings with DRAMDig can be accomplished within two ste
 - Motherboard: Gigabyte Z170N
 - Memory: Samsung 16G DDR4 (Non-ECC)
 - DRAM Setting: 1 channel, 1 DIMM/channel, 2 ranks/DIMM; 32 banks in total
+- Ubuntu 18.04 LTS with its default Linux kernel
 
 ### Step 1
 Firstly run the script `detect_setups.py`.
